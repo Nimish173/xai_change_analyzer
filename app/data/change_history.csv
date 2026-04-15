@@ -1,0 +1,90 @@
+description,risk_level,issues
+Billing module update for invoice calculation,HIGH,incorrect tax calculation risk
+Invoice PDF format UI fix,LOW,UI alignment issue
+New product addition flow in catalog,MEDIUM,missing validation
+Delete product API update,HIGH,data loss risk
+Update pricing logic for subscription billing,HIGH,incorrect billing amount
+Rating logic change for customer feedback,MEDIUM,calculation inconsistency
+Component upgrade in checkout page,HIGH,UI + API mismatch
+Fix for invoice duplication issue,HIGH,duplicate record risk
+Payment gateway integration update,HIGH,transaction failure risk
+UI fix in billing dashboard,LOW,cosmetic issue
+API optimization for invoice retrieval,MEDIUM,performance not tested
+New discount logic in billing engine,HIGH,incorrect discount application
+Product catalog bulk upload feature,HIGH,data validation missing
+Remove legacy billing endpoint,HIGH,backward compatibility issue
+Frontend change in invoice preview,MEDIUM,format mismatch
+Backend fix in order creation API,HIGH,data inconsistency risk
+New feature for subscription upgrade,HIGH,proration calculation issue
+Database schema change for billing,HIGH,data migration risk
+Bug fix in tax calculation logic,HIGH,financial impact
+Add new payment method support,HIGH,integration risk
+UI redesign for product page,LOW,UI regression
+Invoice email notification fix,MEDIUM,email failure risk
+Batch job for invoice generation,HIGH,duplicate processing risk
+Performance improvement in billing API,MEDIUM,untested load
+Remove unused product categories,LOW,no major impact
+Update component library version,HIGH,dependency conflict
+Change in API response structure,HIGH,client breakage risk
+Fix rounding issue in invoice,HIGH,financial discrepancy
+Add audit logs for billing changes,LOW,logging only
+New reporting feature for invoices,MEDIUM,data accuracy risk
+Fix caching issue in product API,MEDIUM,stale data risk
+Add retry logic in payment API,HIGH,double charge risk
+Refactor order processing logic,HIGH,logic regression risk
+Add feature flag for billing module,LOW,safe rollout
+Fix UI issue in checkout page,LOW,visual bug
+Introduce new tax rules,HIGH,compliance risk
+Optimize DB queries for billing,MEDIUM,performance variance
+Add bulk delete for products,HIGH,accidental deletion risk
+Fix API timeout in invoice service,MEDIUM,partial failure risk
+Update webhook handling for payments,HIGH,missed events risk
+Add validation in product creation API,LOW,improved stability
+Fix currency conversion issue,HIGH,incorrect billing
+Introduce invoice versioning,HIGH,data mismatch risk
+Update SLA calculation logic,MEDIUM,incorrect SLA metrics
+Add export feature for invoices,LOW,minor feature
+Fix UI freeze in billing dashboard,LOW,UX issue
+Add multi-currency support,HIGH,conversion risk
+Update authentication for billing APIs,HIGH,security risk
+Fix concurrency issue in order API,HIGH,race condition risk
+Billing reconciliation job fix,HIGH,data mismatch across systems
+Invoice generation delay issue fix,MEDIUM,batch timing inconsistency
+Product price sync between UI and backend,HIGH,inconsistent pricing display
+Subscription downgrade logic update,HIGH,incorrect billing adjustment
+Payment retry failure handling fix,HIGH,duplicate charge risk
+Invoice numbering sequence correction,HIGH,compliance violation risk
+Bulk invoice download feature addition,MEDIUM,performance impact
+Product deletion soft delete implementation,HIGH,data recovery complexity
+Billing cycle date correction,HIGH,incorrect billing period
+Checkout API validation enhancement,LOW,input validation improvement
+Discount coupon stacking logic change,HIGH,unexpected discount application
+Invoice tax breakdown UI enhancement,LOW,display only
+Order history API pagination fix,MEDIUM,partial data loading
+Payment webhook retry enhancement,HIGH,missed payment updates
+Subscription renewal scheduler update,HIGH,missed renewals risk
+Billing audit trail enhancement,LOW,logging improvement
+Invoice template localization update,MEDIUM,format inconsistency
+Currency rounding rule update,HIGH,financial discrepancy
+Product inventory sync fix,HIGH,overselling risk
+Checkout session timeout fix,MEDIUM,session expiry issues
+Payment gateway timeout handling,HIGH,transaction uncertainty
+Subscription upgrade proration fix,HIGH,incorrect billing adjustment
+Invoice export CSV feature addition,LOW,minor feature
+Order processing queue optimization,MEDIUM,processing delay risk
+Billing microservice deployment update,HIGH,service downtime risk
+Tax jurisdiction rule update,HIGH,compliance risk
+Invoice duplication prevention logic,HIGH,duplicate billing risk
+Product bulk update API enhancement,MEDIUM,data validation issue
+Payment status reconciliation fix,HIGH,inconsistent transaction status
+Checkout UI responsiveness fix,LOW,UX improvement
+Invoice archival feature implementation,LOW,data retention improvement
+Subscription cancellation workflow fix,HIGH,incorrect billing continuation
+Billing report aggregation fix,MEDIUM,incorrect reporting
+Product category hierarchy update,LOW,UI structure change
+Payment failure notification enhancement,MEDIUM,missed alerts
+Invoice API rate limiting implementation,LOW,stability improvement
+Order retry mechanism update,HIGH,duplicate order risk
+Billing config parameter update,HIGH,misconfiguration risk
+Currency conversion API integration,HIGH,external dependency risk
+Invoice correction workflow enhancement,HIGH,data correction complexity
