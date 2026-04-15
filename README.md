@@ -22,9 +22,11 @@ Maunal Analysis
 
 <img width="1913" height="852" alt="image" src="https://github.com/user-attachments/assets/c11d25f1-4db7-4232-8758-0ab69a3e1db9" />
 
+<img width="1878" height="683" alt="image" src="https://github.com/user-attachments/assets/86990741-4b66-4e6d-aab2-b5c56db8101d" />
+
 Bulk Analysis
 
-<img width="1878" height="683" alt="image" src="https://github.com/user-attachments/assets/86990741-4b66-4e6d-aab2-b5c56db8101d" />
+<img width="1913" height="863" alt="image" src="https://github.com/user-attachments/assets/a1154c1b-fce5-4294-99f6-26b179234724" />
 
 <img width="1913" height="863" alt="image" src="https://github.com/user-attachments/assets/b4b66d47-1eee-440a-8de7-b77f967fb071" />
 
