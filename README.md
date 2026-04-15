@@ -20,8 +20,6 @@ Maunal Analysis
 
 <img width="1878" height="847" alt="image" src="https://github.com/user-attachments/assets/fa94c4af-e4d3-42d3-833a-0806fe97526c" />
 
-<img width="1913" height="852" alt="image" src="https://github.com/user-attachments/assets/c11d25f1-4db7-4232-8758-0ab69a3e1db9" />
-
 <img width="1878" height="683" alt="image" src="https://github.com/user-attachments/assets/86990741-4b66-4e6d-aab2-b5c56db8101d" />
 
 Bulk Analysis
