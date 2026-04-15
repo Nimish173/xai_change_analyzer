@@ -1,4 +1,4 @@
-<img width="1913" height="863" alt="image" src="https://github.com/user-attachments/assets/2c5233f4-357c-4ceb-b758-71686b8a662f" />Dashbaord
+Dashbaord
 
 <img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/0247e642-ee3a-46e5-9a37-52b066f3153c" />
 
